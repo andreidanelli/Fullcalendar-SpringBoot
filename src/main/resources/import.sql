@@ -1,0 +1,1 @@
+insert into event (id, title, datini, datfim) values (1, 'teste', now(), '2022-10-10');
